@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&background=FFFFFF8D&width=435&lines=i+Am+MR+pro-xiddi+%F0%9F%98%98;it's+nOt+A+just+nAme+BRO;it's+A+brAnd+%F0%9F%99%84;tnk+you+everyone+lv+u+all+%F0%9F%98%98%F0%9F%98%8D)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/rainbow-cheer-awesome-happy-excited-gif-16344574"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">hi 👋, I'm ALI KHAN</h1>
 <h3 align="center">from Pakistan 🇵🇰</h3>
