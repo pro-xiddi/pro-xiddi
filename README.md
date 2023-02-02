@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=FF0E0E&width=435&lines=++WC+TO+ALI++TIMELINE+%F0%9F%98%8D+;+NOW+YOU+CAN+FOLLOW+ME+%F0%9F%96%A4)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm ALI KHAN</h1>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -30,7 +32,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7183B&background=001A048A&width=435&lines=WELCOME+TO+ALI+KHAN+TIMELINE++%F0%9F%98%8D;NOW+YOU+CAN+FOLLOW+ME+%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
+
 
 
 
