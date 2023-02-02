@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=FF0E0E&width=435&lines=++WC+TO+ALI++TIMELINE+%F0%9F%98%8D+;+NOW+YOU+CAN+FOLLOW+ME+%F0%9F%96%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&background=FFFFFF8D&width=435&lines=i+Am+MR+pro-xiddi+%F0%9F%98%98;it's+nOt+A+just+nAme+BRO;it's+A+brAnd+%F0%9F%99%84;tnk+you+everyone+lv+u+all+%F0%9F%98%98%F0%9F%98%8D)](https://git.io/typing-svg)
 
 
 <h1 align="center">hi 👋, I'm ALI KHAN</h1>
