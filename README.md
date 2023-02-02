@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&background=FFFFFF8D&width=435&lines=i+Am+MR+pro-xiddi+%F0%9F%98%98;it's+nOt+A+just+nAme+BRO;it's+A+brAnd+%F0%9F%99%84;tnk+you+everyone+lv+u+all+%F0%9F%98%98%F0%9F%98%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&background=FFFFFF8D&width=700&lines=i+Am+MR+pro-xiddi+%F0%9F%98%98;it's+nOt+A+just+nAme+BRO;it's+A+brAnd+%F0%9F%99%84;tnk+you+everyone+lv+u+all+%F0%9F%98%98%F0%9F%98%8D)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="left" alt="coding" width="60" src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966"><img align="left" alt="coding" width="60" src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966">
+<h1 align="center">ALI  KHAN</h1><img align="right" alt="coding" width="60" src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966">
+<img align="right" alt="coding" width="60" src="https://camo.githubusercontent.com/689d4d6b2c0702d582f60ce755551f6815bafbd1430e01a0454ef585c7cc3427/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966">
 
-<h1 align="center">hi 👋, I'm ALI KHAN</h1>
-<h3 align="center">from Pakistan 🇵🇰</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pro-xiddi&label=Profile%20views&color=0e75b6&style=flat" alt="pro-xiddi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pro-xiddi&label=Profile%20views&color=0e90b6&style=flat" alt="pro-xiddi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pro-xiddi" alt="pro-xiddi" /></a> </p>
 
@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/pk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-xiddi&show_icons=true&locale=en&layout=compact" alt="pro-xiddi" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro-xiddi&show_icons=true&locale=en" alt="pro-xiddi" /></p>
 
