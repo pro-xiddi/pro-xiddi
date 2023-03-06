@@ -7,12 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/oye_xiddi" target="blank"><img src="https://img.shields.io/twitter/follow/oye_xiddi?logo=twitter&style=for-the-badge" alt="oye_xiddi" /></a> </p>
 
+- subscribe me [https://www.youtube.com/@proxiddi](https://www.youtube.com/@proxiddi)
+
+- 📫 How to reach me **khan.pabaini1@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oye_xiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oye_xiddi" height="30" width="40" /></a>
 <a href="https://fb.com/ali.timeline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.timeline" height="30" width="40" /></a>
 <a href="https://instagram.com/oye_xiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye_xiddi" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/@proxiddi](https://www.youtube.com/c/@proxiddi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proxiddi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
