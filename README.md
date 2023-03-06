@@ -1,2 +1,2 @@
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F71A73&width=435&lines=i+Am+MR+pro-xiddi%F0%9F%A5%B0;it's+nOt+A+just+nAme+BRO;it's+A+brAnd+%F0%9F%A4%AB;tnk+you+everyone+;+lv+u+all%F0%9F%98%8D" alt="Typing SVG" /></a>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
